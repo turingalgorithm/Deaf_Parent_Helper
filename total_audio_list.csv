@@ -1,0 +1,8 @@
+,audio,values,target
+0,"[ 1.2662281e-06  1.5658941e-06  1.4249257e-06 ... -3.9104004e-03
+ -2.6171117e-03 -1.3309438e-03]",/Users/selectstar_namkill/PycharmProjects/Audio_classification/data/audios/save_np/donateacry_corpus_cleaned_and_updated_data_belly_pain_549a46d8-9c84-430e-ade8-97eae2bef787-1430130772174-1.7-m-48-bp.wav.npy,0
+1,"[-1.9216411e-04 -8.0021979e-05  6.8480127e-05 ... -1.4570443e-02
+ -9.6029937e-03 -4.8116129e-03]",/Users/selectstar_namkill/PycharmProjects/Audio_classification/data/audios/save_np/donateacry_corpus_cleaned_and_updated_data_belly_pain_69BDA5D6-0276-4462-9BF7-951799563728-1436936185-1.1-m-26-bp.wav.npy,0
+2,[0.00050384 0.00051584 0.00048624 ... 0.00017621 0.00027053 0.00020195],/Users/selectstar_namkill/PycharmProjects/Audio_classification/data/audios/save_np/donateacry_corpus_cleaned_and_updated_data_burping_7A864194-4B6B-4850-ABBF-0C2A8170107B-1436846915-1.1-f-26-bu.wav.npy,1
+3,"[1.2662281e-06 1.5658941e-06 1.4249257e-06 ... 1.1931117e-02 4.2844298e-03
+ 1.0148147e-03]",/Users/selectstar_namkill/PycharmProjects/Audio_classification/data/audios/save_np/donateacry_corpus_cleaned_and_updated_data_burping_5afc6a14-a9d8-45f8-b31d-c79dd87cc8c6-1430757039803-1.7-m-48-bu.wav.npy,1
